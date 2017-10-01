@@ -4,11 +4,19 @@
 Machine Learning together with data streams offer a new and universal way of looking at the world phenomena, which is radically different than classical disciplinary and theory based approaches. Opposite to theory driven approaches, machine learning, which is a relatively new field of research inverts the process of scientific modeling. By asking a proper question and having a lot of observations around that question, machine learning promises to learn good answers from the provided data sets. Therefore, the trained models have a larger capacity to deal with unique and complex problems that have no a priori descriptive theories. With this conceptual turn, within the last few years we have experienced an incredible progress in very complex application domains such as natural language modeling, which led to automatic language translations between many spoken languages without a need to directly encode the semantic or syntactical rules of those languages. Also, there are several success stories in computer vision and specially the new field of deep learning, which have led to successful projects such as self-driving cars. 
 However, while new machine learning algorithms such as deep learning have created a new wave of applications in computer vision and natural language translation, there are a lot of complex applications, yet to be investigated.  
 Similar to the way engineering students need to learn calculus and differential equations or similar to the way architects learn about drawing with pencil and paper, now students and researchers need to get literate in these new fields. In this technical seminar series, our objectives are two folds. While we discuss many mathematical and computational techniques for data driven modeling, we present a wide variety of different applications from different domains. It is expected that graduate researchers will learn to approach their own problems with these new style of thinking. 
- 
-Dates: Tuesdays 14:00-16:00
-Introduction: Tuesday, October 3, 2017			
-Place: Chair for CAAD, D-ARCH/ITA/CAAD HIB E16
-Course tutor: Vahid Moosavi
+
+
+![](images/orthogonal.png)
+
+
+**Dates: Tuesdays 14:00-16:00**
+
+**Introduction: Tuesday, October 3, 2017**			
+
+**Place: Chair for CAAD, D-ARCH/ITA/CAAD HIB E16**
+
+**Course tutor:** [Vahid Moosavi](www.vahidmoosavi.com)
+
 [Github Code Repository](https://github.com/sevamoo/data_driven_modeling) 
 
 ## COURSE MATERIALS
@@ -21,6 +29,7 @@ Course tutor: Vahid Moosavi
 * Laplace's demon
 * Limits to determinism
 * Non-predictable determinism and chaotic systems
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/02_Determinism_And_Probability_Theory_20160927.html)
 
 ### Chapter 2: Probability and statistics (Introduction)
@@ -40,6 +49,7 @@ Course tutor: Vahid Moosavi
 * Covariance
 * Scatter matrix
 * Correlation
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/03_From_Probability_to_Statistics_20161004.html)
 
 ### Chapter 3: Kernel density estimation and least squares method
@@ -51,6 +61,7 @@ Course tutor: Vahid Moosavi
 * Linear regression
 * Polynomial regression
 * Local polynomial regression
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/04_KDE_Least_Squares_Method_Regression_20161011.html)
 
 ### Chapter 4: Linear transformations: Principal Component Analysis (PCA)
@@ -59,6 +70,7 @@ Course tutor: Vahid Moosavi
 * Principal Component Analysis (PCA) 
 * Extensions to PCA
 * Sparse Coding (SC)
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/05_PCA_Sparce_Coding_20161018.html)
 
 ### Chapter 5: Data clustering
@@ -70,6 +82,7 @@ Course tutor: Vahid Moosavi
 * Fundamental limits to classical notion of clusters and community detection
 * Clustering as feature learning in comparison to PCA and sparse coding
 * Clustering as space indexing
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/06_Clustering_Kmeans_DBSCAN_20161101.html)
 
 ### Chapter 6: Self Organizing Maps (SOM)
@@ -86,6 +99,7 @@ Course tutor: Vahid Moosavi
 * Resampling
 * Data reduction 
 * Contextual Numbers
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/07_Self_Organizing_Maps_20161108.html)
 
 ### Chapter 7: Markov chains and dynamical systems
@@ -102,6 +116,7 @@ Course tutor: Vahid Moosavi
 * Kemeny Constant
 * Sensitivity analysis of the transition matrix
 * Applications to economic networks, traffic and text
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/08_Markov_Chains_Dynamical_Systems_20161122.html)
 
 ### Chapter 8: Markov chains, relational representation and natural language models
@@ -163,6 +178,7 @@ Course tutor: Vahid Moosavi
 * Harmonic Analysis, Fourier series and idealized filters
 * Fourier transform in 1D and 2D signals (e.g. sounds and images)
 * Limits of feature engineering in complex environments
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/14_Introduction_to_Representation_Learning_Fourier_Analysis_20170404.html)
 
 ### Chapter 14: (Deep learning) Convolutional neural nets
@@ -173,6 +189,7 @@ Course tutor: Vahid Moosavi
 * CNN for supervised and unsupervised tasks 
 * CNN for image processing 
 * CNN for non-Euclidean and graphical data
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/15_Introduction_to_Representation_Learning_Convolutional_Neural_Nets_20170411.html)
 
 ### Chapter 15: (Deep Learning) Recurrent neural nets
@@ -181,6 +198,7 @@ Course tutor: Vahid Moosavi
 * Long Short-Term Memory (LSTM) networks
 * Recurrent neural nets as universal Turing machines
 * Range of applications
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/16_Introduction_to_Recurrent_Neural_Nets_20170425.html)
 
 ### Chapter 16: (Deep Learning) Recurrent neural nets and dynamical systems
@@ -188,6 +206,7 @@ Course tutor: Vahid Moosavi
 * Chaotic systems
 * Time series forecasting
 * Text generation
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/17_Recurrent_Neural_Nets_Dynamical_Systems_20170502.html)
 
 ### Chapter 17: Introduction to reinforcement learning and agent based learning
@@ -196,37 +215,37 @@ Course tutor: Vahid Moosavi
 * Main approaches and architectures in reinforcement learning 
 * Applications of reinforcement learning for planning and control
 * Deep reinforcement learning 
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/18_Introduction_to_Reinforcement_Learning_20170509.html)
 
 # DATA DRIVEN APPLICATIONS 
 * **Design space exploration**
 	* Structural engineering 
 	* Computational drug design and chemistry
-* Exploring cities with data streams
+* **Exploring cities with data streams**
 	* Urban morphology and spatial analysis using network analysis and machine learning techniques
 	* Geo-mapping with high dimensional data sets
 	* City pattern mining: How to read and explore cities at the age of Big Data
 	* Unconventional data streams: Location based social networks including Twits, texts, images Google street view images, Wikipedia entries and web crawling as new sensory systems in cities
-* Data driven simulation
+* **Data driven simulation**
 	* Learning physics and model reduction next to fluid dynamics: Water flow, wind flow and air pollution at different scales
 	* Urban traffic modeling with mobile phone data or GPS traces
-* Urban economy and real estate market 
-* Time series forecasting in financial markets
-* Networks and systemic risk
+* **Urban economy and real estate market** 
+* **Time series forecasting in financial markets**
+* **Networks and systemic risk**
 	* Energy networks
 	* Flight networks
 	* Economic networks 
-* Dynamical systems and control
+* **Dynamical systems and control**
 	* Dynamic resource allocation: CPUs, clouds, manufacturing job shops 
 	* Smart home (e.g. data driven learning of comfort for the users)
 	* Dynamic pricing and planning: (e.g. tolls, lights, tickets)
-* Natural language modeling applications 
+* **Natural language modeling applications** 
 	* Sentiment analysis
 	* Topic modeling
 	* Smart news
-* Atmospheric science geophysical applications
+* **Atmospheric science geophysical applications**
 	* Tele connection 
 	* Effect of cyclone on ice core accumulation 
-* Image processing and remote sensing applications 
+* **Image processing and remote sensing applications** 
 	* Detecting informal settlements from satellite images
-
