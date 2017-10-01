@@ -9,7 +9,7 @@ Dates: Tuesdays 14:00-16:00
 Introduction: Tuesday, October 3, 2017			
 Place: Chair for CAAD, D-ARCH/ITA/CAAD HIB E16
 Course tutor: Vahid Moosavi
-Web Page: https://github.com/sevamoo/data_driven_modeling 
+[Github Code Repository](https://github.com/sevamoo/data_driven_modeling) 
 
 ## COURSE MATERIALS
 
@@ -113,6 +113,7 @@ Web Page: https://github.com/sevamoo/data_driven_modeling
 * Neuro-probabilistic models of the language
 * Word2Vec and Doc2Vec models
 * Applied natural language modeling problems
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/09_Relational_Representation_Text_Modeling_20161129.html)
 
 ### Chapter 9: Deep neural networks (Auto-encoders)
@@ -124,6 +125,7 @@ Web Page: https://github.com/sevamoo/data_driven_modeling
 * Multi-Layer Perceptron (MLP) networks 
 * Architectural diversity of deep networks
 * Tensorflow
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/10_AutoEncoders_20161206.html)
 
 ### Chapter 10: Ensemble models: When the randomization is a resource.
@@ -134,6 +136,7 @@ Web Page: https://github.com/sevamoo/data_driven_modeling
 * Decision trees
 * Ensemble of weak learners: Random forests and extra trees 
 * Supervised and unsupervised ensembles
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/12_Ensemble_Models_20170307.html)
 
 ### Chapter 12: Data driven modeling in practice
@@ -148,6 +151,7 @@ Web Page: https://github.com/sevamoo/data_driven_modeling
 * Machine learning as a service
 * Deploying the model on a server
 * Serving trained models on a server
+
 [Lecture notes](https://sevamoo.github.io/presentations_repo/13_Data_Driven_Modeling_in_Practice_Real_Estate_Market_20170314.html)
 
 ### Chapter 13: Fourier analysis for signal processing
