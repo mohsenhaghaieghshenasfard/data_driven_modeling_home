@@ -5,10 +5,6 @@ Machine Learning together with data streams offer a new and universal way of loo
 However, while new machine learning algorithms such as deep learning have created a new wave of applications in computer vision and natural language translation, there are a lot of complex applications, yet to be investigated.  
 Similar to the way engineering students need to learn calculus and differential equations or similar to the way architects learn about drawing with pencil and paper, now students and researchers need to get literate in these new fields. In this technical seminar series, our objectives are two folds. While we discuss many mathematical and computational techniques for data driven modeling, we present a wide variety of different applications from different domains. It is expected that graduate researchers will learn to approach their own problems with these new style of thinking. 
 
-
-![](images/orthogonal.png)
-
-
 **Dates: Tuesdays 14:00-16:00**
 
 **Introduction: Tuesday, October 3, 2017**			
@@ -18,6 +14,10 @@ Similar to the way engineering students need to learn calculus and differential 
 **Course tutor:** [Vahid Moosavi](www.vahidmoosavi.com)
 
 [Github Code Repository](https://github.com/sevamoo/data_driven_modeling) 
+
+![](images/orthogonal.png)
+
+
 
 ## COURSE MATERIALS
 
